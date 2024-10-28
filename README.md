@@ -8,7 +8,8 @@ Um Projeto do curso "XP Inc. - Full Stack Developer" da DIO, que teve o objetivo
 -  `` Procurar e listar repositórios de um determinado User do GitHub``
 
 ### Acesso ao projeto: 
-- Você pode acessar o projeto final clicando aqui: 
+- Você pode acessar o projeto final clicando aqui:
+  https://heloisazen.github.io/GitFind/
 
 ### Tecnologias utilizadas:
 
