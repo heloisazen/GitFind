@@ -5,7 +5,7 @@ Um Projeto do curso "XP Inc. - Full Stack Developer" da DIO, que teve o objetivo
 
 ### Funcionalidades do projeto:
 
--  `` Procurar e listar repositórios de um determinado User do GitHub``
+-  `` Procurar por um determinado usuário no GitHub e listar seus repositórios ``
 
 ### Acesso ao projeto: 
 - Você pode acessar o projeto final clicando aqui:
